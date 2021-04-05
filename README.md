@@ -1,5 +1,5 @@
 # Europe-Covid-19-API
-Cloud Computing mini project: Group 15 
+Cloud Computing Mini-Project: Group 15 
 
 - Akhmet Saltanat  ( student ID: 200819617, email: s.akhmet@se20.qmul.ac.uk )
 - Gray Zac Anthony
