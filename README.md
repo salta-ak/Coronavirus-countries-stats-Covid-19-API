@@ -13,11 +13,15 @@ The API returns live cases, vaccination, historical data and culculated monthly 
 
 # How to use API: 
 
-- Cases data on specific country 
-Example request:  Get /cases/United Kingdom
-- Cases data on specific country and region of that country 
-#Example request:  Get /cases/Germany/Bayern
-
+- Cases data on specific country ( Example request:  Get /cases/United Kingdom )
+- Cases data on specific country and region of that country ( Example request:  Get /cases/Germany/Bayern )
+- Vaccines data on specific country ( Example request:  Get /vaccines/United Kingdom )
+- Vaccines data on specific country and region of that country ( Example request:  Get /vaccines/Germany/Bayern )
+- Deaths data on specific country ( Example request:  Get /deaths/United Kingdom )
+- Deaths data on specific country and region of that country ( Example request:  Get /deaths/Germany/Bayern )
+- Total deaths and death rate per 1000 population on specific country ( Example request:  Get /deaths/total/United Kingdom )
+- Country with the most cases  (Example request:  Get /cases/most/United Kingdom )
+- Country with the least cases (Example request:  Get /cases/least/United Kingdom )
 
 
 
