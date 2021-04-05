@@ -1,4 +1,4 @@
-# Coronavirus-countries-stats-Covid-19-API
+# Countries-regions-stats-Covid-19-API
 Cloud Computing Mini-Project: Group 15 
 
 - Akhmet Saltanat ( student ID: 200819617, email: s.akhmet@se20.qmul.ac.uk )
