@@ -11,8 +11,10 @@ Cloud Computing Mini-Project: Group 15
 developers, machines, programs, and other websites to be able to quickly fetch up to date culculated rates on the COVID-19 epidemic in Europe.
 The API returns already agregated and culculated monthly rates in Europe based on live cases, vaccination, historical data. This can be used to build tools and systems that are used for rates/ratios analysis and European countries ranking in public dashboards and charts.
 
-# How to use API: 
+#  Video on API: 
+https://youtu.be/0cr2OLQw9zw
 
+# How to use API: 
 - Cases data on specific country ( Example request:  Get /cases/United Kingdom )
 - Cases data on specific country and region of that country ( Example request:  Get /cases/Germany/Bayern )
 - Vaccines data on specific country ( Example request:  Get /vaccines/United Kingdom )
