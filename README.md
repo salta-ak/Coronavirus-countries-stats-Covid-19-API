@@ -1,15 +1,15 @@
 # Europe-Covid-19-API
 Cloud Computing mini project: Group 15 
 
-Akhmet Saltanat, 
-Gray Zac Anthony, 
-Holt John,
-Obisesan Abayomi Olukayode,
-Olubanjo Ashley
+- Akhmet Saltanat  ( student ID: 200819617, email: s.akhmet@se20.qmul.ac.uk )
+- Gray Zac Anthony
+- Holt John
+- Obisesan Abayomi Olukayode
+- Olubanjo Ashley
 
 # API is for:
-developers, machines, programs, and other websites to be able to quickly fetch up to date rates on the COVID-19 epidemic in Europe.
-The API returns live cases, vaccination, historical data and culculated monthly rates. This culculated and raw data can be used to build tools and systems that are used for data analysis all the way to websites that act as public dashboards and charts.
+developers, machines, programs, and other websites to be able to quickly fetch up to date culculated rates on the COVID-19 epidemic in Europe.
+The API returns already agregated and culculated monthly rates in Europe based on live cases, vaccination, historical data. This can be used to build tools and systems that are used for rates/ratios analysis and European countries ranking in public dashboards and charts.
 
 # How to use API: 
 
@@ -23,5 +23,7 @@ The API returns live cases, vaccination, historical data and culculated monthly 
 - Country with the most cases  (Example request:  Get /cases/most/United Kingdom )
 - Country with the least cases (Example request:  Get /cases/least/United Kingdom )
 
-
+# Data sources
+- https://covid-api.mmediagroup.fr/v1
+- https://github.com/M-Media-Group/Covid-19-API
 
