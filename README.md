@@ -8,8 +8,8 @@ Cloud Computing Mini-Project: Group 15
 - Olubanjo Ashley
 
 # API is for:
-Data scientists, statisticians, developers, machines, programs, and other websites to be able to quickly fetch up to date culculated rates on the COVID-19 epidemic in Europe.
-The API returns already agregated and culculated monthly rates in Europe based on live cases, vaccination, historical data. This can be used to build tools and systems that are used for advanced rates/ratios analysis and for European countries ranking building in public dashboards and charts.
+Data scientists, statisticians, developers, machines, programs, and other websites to be able to quickly fetch up to date culculated rates on the COVID-19 epidemic in specific European country and rigion.
+The API returns already agregated and culculated monthly rates in the EU countryies and rigions based on live cases, vaccination, historical data. This can be used to build tools and systems that are used for advanced rates/ratios analysis and for European countries ranking building in public dashboards and charts.
 
 #  Video on API: 
 https://youtu.be/0cr2OLQw9zw
