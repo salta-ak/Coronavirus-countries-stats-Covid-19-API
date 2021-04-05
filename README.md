@@ -3,7 +3,7 @@ Cloud Computing Mini-Project: Group 15
 
 - Akhmet Saltanat ( student ID: 200819617, email: s.akhmet@se20.qmul.ac.uk )
 - Gray Zac Anthony                 
-- Holt John                         
+- Holt John    ( student ID: 140100329, email: j.holt@se14.qmul.ac.uk )                        
 - Obisesan Abayomi Olukayode
 - Olubanjo Ashley
 
